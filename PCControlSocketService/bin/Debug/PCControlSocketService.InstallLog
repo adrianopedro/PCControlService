@@ -1,0 +1,336 @@
+﻿Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Creating EventLog source PCControlSocketService in log Application...
+Rolling back assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Restoring event log to previous state for source PCControlSocketService.
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Warning: The source PCControlSocketService is not registered on the local machine.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Warning: The source PCControlSocketService is not registered on the local machine.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Warning: The source PCControlSocketService is not registered on the local machine.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Warning: The source PCControlSocketService is not registered on the local machine.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Warning: The source PCControlSocketService is not registered on the local machine.
+Service PCControlSocketService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Warning: The source PCControlSocketService is not registered on the local machine.
+Service PCControlSocketService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Warning: The source PCControlSocketService is not registered on the local machine.
+Service PCControlSocketService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Warning: The source PCControlSocketService is not registered on the local machine.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.
+Attempt to stop service PCControlSocketService.
+Installing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Installing service PCControlSocketService...
+Service PCControlSocketService has been successfully installed.
+Creating EventLog source PCControlSocketService in log Application...
+Committing assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Uninstalling assembly 'E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.InstallLog
+   assemblypath = E:\Projects\PCControlSocketService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+Removing EventLog source PCControlSocketService.
+Service PCControlSocketService is being removed from the system...
+Service PCControlSocketService was successfully removed from the system.

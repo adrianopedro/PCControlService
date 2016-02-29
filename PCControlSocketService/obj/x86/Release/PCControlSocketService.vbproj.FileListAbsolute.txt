@@ -1,0 +1,10 @@
+E:\Projects\PCControlSocketService\PCControlSocketService\bin\x86\Release\PCControlSocketService.exe.config
+E:\Projects\PCControlSocketService\PCControlSocketService\bin\x86\Release\PCControlSocketService.exe
+E:\Projects\PCControlSocketService\PCControlSocketService\bin\x86\Release\PCControlSocketService.pdb
+E:\Projects\PCControlSocketService\PCControlSocketService\bin\x86\Release\PCControlSocketService.xml
+E:\Projects\PCControlSocketService\PCControlSocketService\obj\x86\Release\PCControlSocketService.Resources.resources
+E:\Projects\PCControlSocketService\PCControlSocketService\obj\x86\Release\PCControlSocketService.ProjectInstaller.resources
+E:\Projects\PCControlSocketService\PCControlSocketService\obj\x86\Release\PCControlSocketService.vbproj.GenerateResource.Cache
+E:\Projects\PCControlSocketService\PCControlSocketService\obj\x86\Release\PCControlSocketService.exe
+E:\Projects\PCControlSocketService\PCControlSocketService\obj\x86\Release\PCControlSocketService.xml
+E:\Projects\PCControlSocketService\PCControlSocketService\obj\x86\Release\PCControlSocketService.pdb
