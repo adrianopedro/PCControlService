@@ -28,7 +28,7 @@ Class Executer
                 cmd.Append("rundll32.exe user32.dll,LockWorkStation")
                 Debug.Print(cmd.ToString)
                 Debug.Print(ShellAsUser(cmd, jsondata("admin")("u"), jsondata("admin")("p")))
-                'WindowsApi.LockWorkStation()
+
             Case "msg"
                 Dim WTS_CURRENT_SERVER_HANDLE As IntPtr = IntPtr.Zero
                 Dim WTS_CURRENT_SESSION As Integer = WTSGetActiveConsoleSessionId()
