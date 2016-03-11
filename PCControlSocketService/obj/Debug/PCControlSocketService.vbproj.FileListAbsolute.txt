@@ -19,3 +19,14 @@ H:\Projects\PCControlSocketService\PCControlSocketService\obj\Debug\PCControlSoc
 H:\Projects\PCControlSocketService\PCControlSocketService\obj\Debug\PCControlSocketService.xml
 H:\Projects\PCControlSocketService\PCControlSocketService\obj\Debug\PCControlSocketService.pdb
 H:\Projects\PCControlSocketService\PCControlSocketService\obj\Debug\PCControlSocketService.vbprojResolveAssemblyReference.cache
+H:\Projects\Github\PCControlService\PCControlSocketService\bin\Debug\PCControlSocketService.exe.config
+H:\Projects\Github\PCControlService\PCControlSocketService\obj\Debug\PCControlSocketService.exe
+H:\Projects\Github\PCControlService\PCControlSocketService\obj\Debug\PCControlSocketService.xml
+H:\Projects\Github\PCControlService\PCControlSocketService\obj\Debug\PCControlSocketService.pdb
+H:\Projects\Github\PCControlService\PCControlSocketService\bin\Debug\PCControlSocketService.exe
+H:\Projects\Github\PCControlService\PCControlSocketService\bin\Debug\PCControlSocketService.pdb
+H:\Projects\Github\PCControlService\PCControlSocketService\bin\Debug\PCControlSocketService.xml
+H:\Projects\Github\PCControlService\PCControlSocketService\obj\Debug\PCControlSocketService.Resources.resources
+H:\Projects\Github\PCControlService\PCControlSocketService\obj\Debug\PCControlSocketService.ProjectInstaller.resources
+H:\Projects\Github\PCControlService\PCControlSocketService\obj\Debug\PCControlSocketService.vbproj.GenerateResource.Cache
+H:\Projects\Github\PCControlService\PCControlSocketService\obj\Debug\PCControlSocketService.vbprojResolveAssemblyReference.cache

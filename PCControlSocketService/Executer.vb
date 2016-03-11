@@ -11,7 +11,7 @@ Class Executer
     Dim jsonsubdata As Object
     Dim decoder As New JavaScriptSerializer()
     Dim resp As UInteger
-
+    Dim osVer As Version = Environment.OSVersion.Version
 
     Public Sub Builder(ByVal content As String)
         'Debug.Print(content)
@@ -22,8 +22,14 @@ Class Executer
         Debug.Print(jsondata("act"))
         Select Case jsondata("act")
             Case "setpwd"
+
                 cmd.Append("NET USER """ + jsondata("data")("u") + """ " + jsondata("data")("p") + "")
-                Debug.Print(ShellAsUser(cmd, jsondata("admin")("u"), jsondata("admin")("p")))
+                If osVer.Major < 6 Then
+                    Debug.Print(ShellAsUser(cmd))
+                Else
+                    Debug.Print(ShellAsUser(cmd, jsondata("admin")("u"), jsondata("admin")("p")))
+                End If
+
             Case "lock"
                 cmd.Append("rundll32.exe user32.dll,LockWorkStation")
                 Debug.Print(cmd.ToString)
@@ -34,10 +40,17 @@ Class Executer
                 Dim WTS_CURRENT_SESSION As Integer = WTSGetActiveConsoleSessionId()
                 Dim title As String = "NOTIFICATION"
                 Dim tlen As Integer = title.Length
-                Dim msg As String = jsondata("data")("msg")
+                Dim msg As String
+                Try
+                    msg = jsondata("data")("msg")
+                Catch ex As Exception
+                    msg = "NO MESSAGE"
+                End Try
                 Dim mlen As Integer = msg.Length
                 Dim response As Integer = 0
                 Dim style = WindowsApi.MBStyleFlags.Exclamation Or WindowsApi.MBStyleFlags.SystemModal
+
+
                 WindowsApi.WTSSendMessage(WTS_CURRENT_SERVER_HANDLE, WTS_CURRENT_SESSION, title, tlen, msg, mlen, style, 3000, Nothing, False)
             Case "raw"
                 cmd.Append(jsondata("data")("raw"))
